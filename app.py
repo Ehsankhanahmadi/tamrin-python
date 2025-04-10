@@ -11,3 +11,12 @@ print(type(180))
 print(type(180.8888))
     # complex
 print(type(180j))
+
+# operator
+# +
+# -
+# *
+# / => dar python ma taghsim hamoon beh shekleh float ast
+# %
+# ** => tavan
+# // => haman taghsim ast vali int
