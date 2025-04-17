@@ -50,3 +50,10 @@
 # print(x[:3])
 # print(x[0:])
 
+# format string 
+# n = "ehsan"
+# l = "khanahmadi"
+# a = 19
+# me = f"{n} {l} {a}"
+# print(me)
+
