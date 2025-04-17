@@ -41,3 +41,12 @@
 # y2 = float("5")
 # z = str(3.6)
 # print(x , x2 , y , y2 , z)
+
+# slicing in string
+# x = "ehsan"
+# print(x[1])
+# print(x[0:2])
+# print(x[:])
+# print(x[:3])
+# print(x[0:])
+
