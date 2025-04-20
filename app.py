@@ -4,6 +4,8 @@
 # data types
 # string
 # print(type("ehsan"))
+# boolean
+# print(type(True))
 # number 
     # int
 # print(type(180))
@@ -71,3 +73,16 @@
 # print(text.title())
 # print(text.upper())
 # print(text.lower())
+# print(len(text))
+
+# boolean true and false
+# print(bool(False))
+# print(bool(None))
+# print(bool(0))
+# print(bool(""))
+# print(bool(()))
+# print(bool({}))
+# print(bool([]))
+
+# comparision 
+# == != > < >= <=
