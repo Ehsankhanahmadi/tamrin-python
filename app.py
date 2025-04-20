@@ -56,4 +56,18 @@
 # a = 19
 # me = f"{n} {l} {a}"
 # print(me)
-
+# method string
+# text = "hi my name is ehsan"
+# text = "hi my name is ehsan my name"
+# text = "hi my name is {} an my lastname {}"
+# text = "سلام"
+# print(text.capitalize())
+# print(text.casefold())
+# print(text.count("m"))
+# print(text.count(" "))
+# print(text.find("name"))
+# print(text.index('my'))
+# print(text.format("ehsan","khanahmadi"))
+# print(text.title())
+# print(text.upper())
+# print(text.lower())
