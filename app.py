@@ -96,3 +96,7 @@
 # 3 => sets = moratab {}
 # 4 => dictionarys = customise ghabeleh taghir {object}
 # use list
+# listone = ["ehsan","amir","reza","fatemeh","mobina"]
+# print(listone[2])
+# print(listone[2:4])
+# print(listone[-3:-1])
