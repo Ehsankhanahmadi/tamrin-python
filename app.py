@@ -13,6 +13,8 @@
 # print(type(180.8888))
     # complex
 # print(type(180j))
+# list
+# print(type(["ehsan","reza",2,True,9.5]))
 
 # operator
 # +
@@ -86,3 +88,10 @@
 
 # comparision 
 # == != > < >= <=
+
+# list or array
+# ma baraieh zakhireh sazieh array ha dar python 4 ravesh darim
+# 1 => lists = moratab ghableh tekrar va ghabeleh taghir []
+# 2 => tuples = moratab ghableh tekrar ()
+# 3 => sets = moratab {}
+# 4 => dictionarys = customise ghabeleh taghir {object}
