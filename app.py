@@ -95,3 +95,4 @@
 # 2 => tuples = moratab ghableh tekrar ()
 # 3 => sets = moratab {}
 # 4 => dictionarys = customise ghabeleh taghir {object}
+# use list
