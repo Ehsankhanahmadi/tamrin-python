@@ -144,3 +144,18 @@
 # print(test2)
 # test3 = list(arraynum)
 # print(test3)
+
+# tuples 
+# tupleOne = ("ehsan")
+# print(type(tupleOne))
+# tupleOne = ("ehsan",)
+# print(type(tupleOne))
+# tupleOne = ("ehsan","reza",2,True,2)
+# tupleTwo = ('amir',)
+# print(tupleOne)
+# print(type(tupleOne))
+# tuplrThree = tupleOne + tupleTwo
+# print(tuplrThree)
+# print(type(tuplrThree))
+# print(tupleOne.count(2))
+# print(tupleOne.index(True))
