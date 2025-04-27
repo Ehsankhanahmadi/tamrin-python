@@ -122,3 +122,11 @@
 # print(array)
 # array.extend(tuple)
 # print(array)
+# array.remove("ehsan")
+# array.remove(array[1])
+# array.pop()
+# array.pop(1)
+# del array[1]
+# del array
+# array.clear()
+# print(array) 
