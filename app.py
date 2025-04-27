@@ -101,7 +101,8 @@
 # print(listone[2:4])
 # print(listone[-3:-1])
 
-# array = ["ehsan","amir","reza","elia"]
+# array = ["ehsan","bahram","reza","elia","Amin","Bahram"]
+# arraynum = [1,2,3,4,5]
 # array2 = [True,3,"khan"]
 # tuple = (3 , "mina")
 # print(array)
@@ -130,3 +131,16 @@
 # del array
 # array.clear()
 # print(array) 
+# array3 = array + array2
+# print(array3)
+# array.sort()
+# array.sort(reverse=True)
+# arraynum.sort()
+# arraynum.sort(reverse=True)
+# print(arraynum)
+# test = arraynum
+# print(test)
+# test2 = arraynum.copy()
+# print(test2)
+# test3 = list(arraynum)
+# print(test3)
