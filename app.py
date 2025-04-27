@@ -101,7 +101,9 @@
 # print(listone[2:4])
 # print(listone[-3:-1])
 
-# array = ["ehsan","amir","reza","elia"]
+array = ["ehsan","amir","reza","elia"]
+array2 = [True,3,"khan"]
+tuple = (3 , "mina")
 # print(array)
 # array[1] = "mahdi"
 # print(array)
@@ -114,3 +116,9 @@
 # array[0] = ["ehsan","milad"]
 # print(array)
 # print(array[0][1])
+# array.append(True)
+# print(array)
+# array.extend(array2)
+# print(array)
+# array.extend(tuple)
+# print(array)
