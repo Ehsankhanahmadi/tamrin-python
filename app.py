@@ -100,3 +100,17 @@
 # print(listone[2])
 # print(listone[2:4])
 # print(listone[-3:-1])
+
+# array = ["ehsan","amir","reza","elia"]
+# print(array)
+# array[1] = "mahdi"
+# print(array)
+# array[1:3] = ["mohammad","amin"]
+# print(array)
+# array[1:3] = ["mohammad"]
+# print(array)
+# array.insert(1,"amirhosein")
+# print(array)
+# array[0] = ["ehsan","milad"]
+# print(array)
+# print(array[0][1])
