@@ -94,7 +94,7 @@
 # 1 => lists = moratab ghableh tekrar va ghabeleh taghir []
 # 2 => tuples = moratab ghableh tekrar ()
 # 3 => sets = moratab nist {}
-# 4 => dictionarys = customise ghabeleh taghir {object}
+# 4 => dictionarys = customise ghableh tekrar va ghabeleh taghir {object}
 # use list
 # listone = ["ehsan","amir","reza","fatemeh","mobina"]
 # print(listone[2])
@@ -106,6 +106,7 @@
 # array2 = [True,3,"khan"]
 # tuple = (3 , "mina")
 # print(array)
+# print(type(array))
 # array[1] = "mahdi"
 # print(array)
 # array[1:3] = ["mohammad","amin"]
@@ -165,6 +166,7 @@
 # x2 = {"amir","mina","reza"}
 # y = {1, 2, 3}
 # z = ["mehdi","mina","ehsan"]
+# print(type(x))
 # print("ehsan" in x)
 # print("Ehsan" in x)
 # print(x)
@@ -190,3 +192,13 @@
 # print(z)
 # print(x | x2)
 # print(x & x2)
+
+# Dictionaries
+dic = {
+    "name":"ehsan",
+    "age":19,
+    "frinds":["reza","amir"],
+    "man":True    
+}
+# print(type(dic))
+# print(dic)
