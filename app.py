@@ -256,3 +256,16 @@
 # else : 
 #     print("else")
 # print("a") if a < b else print("b")
+
+# Loops
+# i = 1
+# while(i < 10):
+#     # print(i)
+#     i += 1 
+#     if(i == 6):
+#         continue
+#         # break
+#     print(i)
+#     # i += 1
+# # else:
+# #     print("error")
