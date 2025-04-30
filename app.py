@@ -269,3 +269,10 @@
 #     # i += 1
 # # else:
 # #     print("error")
+# name = ["ehsan","amir","reza"]
+# for x in name :
+#     print("hi")
+#     print(x)
+# x = "ehsan"
+# for i in x :
+#     print(i)
