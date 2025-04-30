@@ -93,7 +93,7 @@
 # ma baraieh zakhireh sazieh array ha dar python 4 ravesh darim
 # 1 => lists = moratab ghableh tekrar va ghabeleh taghir []
 # 2 => tuples = moratab ghableh tekrar ()
-# 3 => sets = moratab {}
+# 3 => sets = moratab nist {}
 # 4 => dictionarys = customise ghabeleh taghir {object}
 # use list
 # listone = ["ehsan","amir","reza","fatemeh","mobina"]
@@ -159,3 +159,23 @@
 # print(type(tuplrThree))
 # print(tupleOne.count(2))
 # print(tupleOne.index(True))
+
+# Sets
+# x = {"ehsan","amir","reza"}
+# y = {1, 2, 3}
+# z = ["mehdi","mina","ehsan"]
+# print("ehsan" in x)
+# print("Ehsan" in x)
+# print(x)
+# x.add("mohammad")
+# print(x)
+# x.remove("amir")
+# print(x)
+# z = x.union(y)
+# x.update(y)
+# print(z)
+# print(x)
+# y.update(z)
+# print(y)
+# x.update(z)
+# print(x)
