@@ -162,6 +162,7 @@
 
 # Sets
 # x = {"ehsan","amir","reza"}
+# x2 = {"amir","mina","reza"}
 # y = {1, 2, 3}
 # z = ["mehdi","mina","ehsan"]
 # print("ehsan" in x)
@@ -179,3 +180,13 @@
 # print(y)
 # x.update(z)
 # print(x)
+# x.intersection_update(x2)
+# print(x)
+# z = x.intersection(x2)
+# print(z)
+# x.symmetric_difference_update(x2)
+# print(x)
+# z = x.symmetric_difference(x2)
+# print(z)
+# print(x | x2)
+# print(x & x2)
