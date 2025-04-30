@@ -245,3 +245,14 @@
 # }
 # # print(dic["child1"]["name"])
 # print(dic)
+
+# if ... else 
+# a = 10
+# b = 20
+# if (a < b) and (a == b):
+#     print("test one")
+# elif (b < a) or (a < b) and (b == 20) :
+#     print("test two")
+# else : 
+#     print("else")
+# print("a") if a < b else print("b")
