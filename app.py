@@ -223,3 +223,25 @@
 # print(dic)
 # dic.clear()
 # print(dic)
+# dic2 = dic
+# dic2["name"] = "amir"
+# print(dic)
+# dic2 = dic.copy()
+# dic2 = dict(dic)
+# test = {
+#     "name":"test",
+#     "age":10
+# }
+# dic = {
+#     "child1":{
+#         "name":"ehsan",
+#         "age":19
+#     },
+#     "child2":{
+#         "name":'amir',
+#         "age": 18
+#     },
+#     "child3": test
+# }
+# # print(dic["child1"]["name"])
+# print(dic)
