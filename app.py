@@ -194,11 +194,18 @@
 # print(x & x2)
 
 # Dictionaries
-dic = {
-    "name":"ehsan",
-    "age":19,
-    "frinds":["reza","amir"],
-    "man":True    
-}
+# dic = {
+#     "name":"ehsan",
+#     "age":19,
+#     "frinds":["reza","amir"],
+#     "man":True    
+# }
 # print(type(dic))
 # print(dic)
+# print(dic["name"])
+# print(dic.get("name"))
+# print(dic.keys())
+# print(dic.values())
+# print(dic.items())
+# if "name" in dic :
+#     print(dic["name"])
