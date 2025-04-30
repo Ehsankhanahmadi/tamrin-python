@@ -209,3 +209,17 @@
 # print(dic.items())
 # if "name" in dic :
 #     print(dic["name"])
+# dic["age"] = 18
+# dic.update({"frinds":["reza","amir","mahdi"]})
+# print(dic)
+# dic["hir"] = "black"
+# dic.update({"tall":185})
+# print(dic)
+# dic.pop("age")
+# dic.popitem()
+# print(dic)
+# del dic["name"]
+# del dic
+# print(dic)
+# dic.clear()
+# print(dic)
