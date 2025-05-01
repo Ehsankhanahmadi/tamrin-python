@@ -282,3 +282,12 @@
 #     print(i)
 # for i in range(10 , 3 , -1):
 #     print(i)
+
+# Functions
+# def function(name,lastname):
+# def function(name,lastname="khanahmadi"):
+    # print(f"hi {name} {lastname}")
+
+# function("ehsan","khanahmadi")
+# function(name="amir",lastname="khanahmadi")
+# function("ehsan")
