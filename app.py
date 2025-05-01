@@ -291,3 +291,35 @@
 # function("ehsan","khanahmadi")
 # function(name="amir",lastname="khanahmadi")
 # function("ehsan")
+# def function(*args):
+# def function(fname,lname,*args):
+# def function(fname,lname,*args,**kwargs):
+    # print(args)
+    # for name in args:
+    #     print(name)
+    # print(f"{fname} {lname}")
+    # for frind in args:
+    #     print(f"frinds = ({frind})")
+    # print(fname)
+    # print(lname)
+    # print(args)
+    # print(kwargs)
+
+# function()
+# function("ehsan","amir",2,True)
+# function("ehsan","khanahmadi","amir","reza")
+# function("ehsan","khan","test","test2",city="mino",tall=185)
+# def function(name):
+#     for n in name:
+#         print(n)
+
+# names = ["ehsna","amir","reza"]
+# function(names)
+# def function(a,b):
+#     a += 1
+#     b += 1
+#     return a,b
+# result = function(1,2)
+# print(result)
+# print(type(result))
+# print(result[1])
