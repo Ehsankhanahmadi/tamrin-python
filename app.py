@@ -323,3 +323,73 @@
 # print(result)
 # print(type(result))
 # print(result[1])
+# def test():
+#     global x
+#     x = 19
+# test()
+# print(x)
+
+# Lambda
+# x = lambda a ,b : a * b
+# print(x(2,3))
+# def function(a):
+#     return lambda b : a + b
+# x = function(10)
+# print(x(2))
+# listOne = [1,2,3,4,5]
+# listTwo = [6,7,8,9,10]
+# x = list(map(lambda a,b: a*b,listOne,listTwo))
+# print(x)
+
+# Modules
+# def testOne(test):
+#     print(f"this is test one {test}")
+
+# dic = {
+#     "name":"ehsan",
+#     "lastname":"khan"
+# }
+
+# Math
+# import math
+# array = [2,3,1,53,13,12]
+# x = min(array)
+# y = max(array)
+# print(x)
+# print(y)
+# print(abs(-10))
+# print(pow(5,3))
+# x = math.floor(1.8)
+# y = math.ceil(1.2)
+# print(x)
+# print(y)
+
+# JSON
+# import json
+# JSON = """[
+#     {
+#         "name":"ehsan",
+#         "age":19,
+#         "frinds":["reza","amir","mahdi"]
+#     },
+#     {
+#         "name":"amir",
+#         "age":19,
+#         "frinds":["reza","ehsan","mahdi"]
+#     }
+# ]"""
+
+# dic = {
+#     "name":"ehsan",
+#     "age":18,
+#     "man":True,
+# }
+
+# x = json.loads(JSON)
+# print(JSON)
+# print(x[1]["name"])
+
+# y = json.dumps(dic, indent=2, sort_keys=True)
+# y = json.dumps(dic)
+# print(dic)
+# print(y)

@@ -1,0 +1,12 @@
+[
+    {
+        "name":"ehsan",
+        "age":19,
+        "frinds":["reza","amir","mahdi"]
+    },
+    {
+        "name":"amir",
+        "age":19,
+        "frinds":["reza","ehsan","mahdi"]
+    }
+]
