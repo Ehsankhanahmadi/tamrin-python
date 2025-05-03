@@ -393,3 +393,18 @@
 # y = json.dumps(dic)
 # print(dic)
 # print(y)
+
+# Error Handling
+# try:
+#     print(2)
+#     print(x)
+# except:
+#     print("this is error")
+# else:
+#     print("this is else")
+# finally:
+#     print("this is finally")
+
+# raise Exception("this is thorw error in python")
+# raise NameError('this is name error')
+# raise KeyError('this is key error')
