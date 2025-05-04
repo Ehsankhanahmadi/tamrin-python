@@ -246,6 +246,15 @@
 # # print(dic["child1"]["name"])
 # print(dic)
 
+# iterable ===> iterator
+# list = ["ehsan","reza","amir"] # iterable
+# myiterator = iter(list) # iterable => iterator
+# print(myiterator)
+# print(next(myiterator))
+# print(next(myiterator))
+# print(next(myiterator))
+# print(next(myiterator))
+
 # if ... else 
 # a = 10
 # b = 20

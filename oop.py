@@ -35,3 +35,25 @@
 # print(vch.age)
 # vch.test("vch")
 # vch.agef()
+
+
+# oop iterator
+# class myIterator:
+#     def __iter__(self):
+#         self.a = 1
+#         return self
+    
+#     def __next__(self):
+#         if self.a < 10:
+#             x = self.a
+#             self.a += 1
+#             return x
+    
+# test = myIterator()
+# iterOne = iter(test)
+# print(next(iterOne))
+# print(next(iterOne))
+# print(next(iterOne))
+# print(next(iterOne))
+# print(next(iterOne))
+# print(next(iterOne))
