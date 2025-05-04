@@ -361,6 +361,26 @@
 # x = list(map(lambda a,b: a*b,listOne,listTwo))
 # print(x)
 
+# Decoratorse
+# for change raftar functions
+# def hello_decorator(fun):
+
+#     def inner():
+#         print("befor decorator")
+#         fun()
+#         print("after decorator")
+    
+#     return inner
+
+# @hello_decorator
+# def hello():
+#     print("salam")
+
+# # hello = hello_decorator(hello) ===> @hello_decorator
+# # hello = hello_decorator(hello)
+# hello()
+
+
 # Modules
 # def testOne(test):
 #     print(f"this is test one {test}")
