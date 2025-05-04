@@ -451,3 +451,10 @@
 # raise Exception("this is thorw error in python")
 # raise NameError('this is name error')
 # raise KeyError('this is key error')
+
+# usage _
+# _ baraieh estefadeh iek nam
+# for_ class_ taghir iek kalameh kelidi baraieh varieble
+# __init__
+# _name = "test" # protection
+# __name = "test" # private
