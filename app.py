@@ -366,19 +366,23 @@
 # def hello_decorator(fun):
 #     def inner(*args,**kwargs):
 #         print("befor decorator")
-#         fun(*args,**kwargs)
+#         # fun(*args,**kwargs)
+#         x = fun(*args,**kwargs)
 #         print("after decorator")
+#         return x
 #     return inner
 
 # @hello_decorator
 # def hello(name,lname):
 #     print(f"salam {name} {lname}")
+#     return f"test {name} {lname}"
 
 # # hello = hello_decorator(hello) ===> @hello_decorator
 # # hello = hello_decorator(hello)
 # # hello()
-# hello("ehsna","khan")
-
+# # hello("ehsna","khan")
+# x = hello("ehsna","khan")
+# print(x)
 
 # Modules
 # def testOne(test):
