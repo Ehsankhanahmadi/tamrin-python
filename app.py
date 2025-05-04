@@ -364,21 +364,20 @@
 # Decoratorse
 # for change raftar functions
 # def hello_decorator(fun):
-
-#     def inner():
+#     def inner(*args,**kwargs):
 #         print("befor decorator")
-#         fun()
+#         fun(*args,**kwargs)
 #         print("after decorator")
-    
 #     return inner
 
 # @hello_decorator
-# def hello():
-#     print("salam")
+# def hello(name,lname):
+#     print(f"salam {name} {lname}")
 
 # # hello = hello_decorator(hello) ===> @hello_decorator
 # # hello = hello_decorator(hello)
-# hello()
+# # hello()
+# hello("ehsna","khan")
 
 
 # Modules
