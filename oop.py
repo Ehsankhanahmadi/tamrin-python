@@ -2,8 +2,11 @@
 #     # test = 0
 #     def __init__(self,name,lname):
 #         # print("hello")
-#         self.name = name
-#         self.lname = lname
+        # self.a = 2 # public
+        # self._a = 2 # protect => use in child and parend
+        # self.__a = 2 # private => use just in parent
+        # self.name = name
+        # self.lname = lname
 #         # MyClass.test += 1
 
 #     def test(self,t):
