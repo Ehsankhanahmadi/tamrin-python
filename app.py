@@ -282,6 +282,12 @@
 #     print(i)
 # for i in range(10 , 3 , -1):
 #     print(i)
+# list loops
+# list = [x for x in range(10)]
+# list = [x for x in range(10) if x < 5]
+# listOne = ["ehsan","amir","reza"]
+# list = [name for name in listOne if name[0] == "a"]
+# print(list)
 
 # Functions
 # def function(name,lastname):
