@@ -298,11 +298,16 @@
 # list = [name for name in listOne if name[0] == "a"]
 # print(list)
 
+# first class function in python
+# def test(text):
+#     print(text)
+# printtext = test
+# printtext("text test")
+
 # Functions
 # def function(name,lastname):
 # def function(name,lastname="khanahmadi"):
     # print(f"hi {name} {lastname}")
-
 # function("ehsan","khanahmadi")
 # function(name="amir",lastname="khanahmadi")
 # function("ehsan")
