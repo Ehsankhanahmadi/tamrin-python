@@ -117,3 +117,19 @@
 # d1.move()
 # print(l1.legs)
 # print(d1.legs)
+
+# repr vs str
+# class test:
+#     def __init__(self,name):
+#         self.name = name
+    
+#     def __str__(self):
+#         return self.name
+    
+#     def __repr__(self):
+#         return self.name
+
+# # t1 = test("ehsan")
+# # print(t1)
+# t1 = test("ehsan")
+# print(t1)
