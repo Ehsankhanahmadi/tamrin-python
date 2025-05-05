@@ -63,26 +63,23 @@
 
 
 # seter and geter and deleter
-class person :
-    def __init__(self):
-        self.__age = 19
+# class person :
+#     def __init__(self):
+#         self.__age = 19
+#     @property
+#     def age(self):
+#         return self.__age
+#     @age.setter
+#     def age(self,value):
+#         self.__age = value
+#     @age.deleter
+#     def age(self):
+#         del self.__age
 
-    @property
-    def age(self):
-        return self.__age
-    
-    @age.setter
-    def age(self,value):
-        self.__age = value
+# ehsna = person()
 
-    @age.deleter
-    def age(self):
-        del self.__age
-
-ehsna = person()
-
-print(ehsna.age)
-ehsna.age = 20
-print(ehsna.age)
-# del ehsna.age
 # print(ehsna.age)
+# ehsna.age = 20
+# print(ehsna.age)
+# # del ehsna.age
+# # print(ehsna.age)
