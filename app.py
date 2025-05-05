@@ -384,6 +384,26 @@
 # x = hello("ehsna","khan")
 # print(x)
 
+# Generator
+# def fun():
+#     yield 1
+#     yield 2
+#     yield 3
+# x = fun()
+# # print(type(x))
+# # print(next(x))
+# # print(next(x))
+# # print(next(x))
+# # print(next(x))
+# def fun(max):
+#     cnt = 1
+#     while cnt <= max:
+#         yield cnt
+#         cnt += 1
+# ctr = fun(5)
+# for n in ctr:
+#     print(n)
+
 # Modules
 # def testOne(test):
 #     print(f"this is test one {test}")
