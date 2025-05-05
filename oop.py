@@ -83,3 +83,37 @@
 # print(ehsna.age)
 # # del ehsna.age
 # # print(ehsna.age)
+
+# abctracmethod
+# from abc import ABC , abstractmethod
+# class person:
+#     @property
+#     @abstractmethod
+#     def move(self):
+#         pass
+#     def legs(self):
+#         pass
+    
+# class lion(person):
+#     def move(self):
+#         print("lion move")
+
+#     @property
+#     def legs(self):
+#         return 2
+    
+# class dog(person):
+#     def move(self):
+#         print("dog move")
+
+#     @property
+#     def legs(self):
+#         return 4
+
+# l1 = lion()
+# d1 = dog()
+
+# l1.move()
+# d1.move()
+# print(l1.legs)
+# print(d1.legs)
