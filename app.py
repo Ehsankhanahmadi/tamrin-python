@@ -66,7 +66,7 @@
 # text = "hi my name is {} an my lastname {}"
 # text = "سلام"
 # print(text.capitalize())
-# print(text.casefold())
+# print(text.casefold()) # lower
 # print(text.count("m"))
 # print(text.count(" "))
 # print(text.find("name"))
@@ -91,10 +91,10 @@
 
 # list or array
 # ma baraieh zakhireh sazieh array ha dar python 4 ravesh darim
-# 1 => lists = moratab ghableh tekrar va ghabeleh taghir []
-# 2 => tuples = moratab ghableh tekrar ()
+# 1 => lists = moratab ghableh tekrar nist va ghabeleh taghir []
+# 2 => tuples = moratab ghableh tekrar va ghabele tekrar ()
 # 3 => sets = moratab nist {}
-# 4 => dictionarys = customise ghableh tekrar va ghabeleh taghir {object}
+# 4 => dictionarys = customise va ghabeleh taghir {object}
 # use list
 # listone = ["ehsan","amir","reza","fatemeh","mobina"]
 # print(listone[2])
