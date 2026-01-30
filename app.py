@@ -480,3 +480,5 @@
 # __name = "test" # private
 
 # how to save package in requirement file ? 
+# pip freeze > requirements.txt
+# pip install -r requirements.txt
